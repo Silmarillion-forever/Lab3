@@ -30,4 +30,4 @@ dotnet run --project GitHubTest
 
 ## Схемы алгоритмов
 
-Схемы гномьей сортировки и сортировки Шелла лежат в файле `GitHubTest/Схемы Лаб3.drawio` (формат draw.io / diagrams.net).
+Схемы гномьей сортировки и сортировки Шелла лежат в файле [Схемы Лаб3.drawio (draw.io / diagrams.net)](GitHubTest/%D0%A1%D1%85%D0%B5%D0%BC%D1%8B%20%D0%9B%D0%B0%D0%B1%D0%B3.drawio).
